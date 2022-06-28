@@ -20,7 +20,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amylss&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayyyan&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
