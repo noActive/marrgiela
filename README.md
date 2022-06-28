@@ -1,16 +1,16 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/amylss" target="_blank">
+<a href="https://github.com/nayyyan" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/amylss" target="_blank">
+<a href="https://dev.to/nayyyan" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/amylss" target="_blank">
+<a href="https://www.youtube.com/user/nayyyan" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/amylss" target="_blank">
+<a href="https://dribbble.com/nayyyan" target="_blank">
 <img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -35,20 +35,20 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=amylss&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=nayyyan&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-            <a href="https://paypal.me/amylss" target="_blank" style="display: inline-block;">
+            <a href="https://paypal.me/nayyyan" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square" 
                     align="center"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/amylss" target="_blank" style="display: inline-block;">
+            <a href="https://www.buymeacoffee.com/nayyyan" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
                     align="center"
@@ -57,4 +57,4 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://420club.xyz/" target="_blank">420club</a></div>
+<div align="center">Generated using <a href="127.0.0" target="_blank">127.0.0</a></div>
