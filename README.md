@@ -11,7 +11,7 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 - Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
 
 # My Discord Contact:
-  <img src="https://cdn.discordapp.com/attachments/962098120710303784/992406926417727488/header.png" alt="banner nayyan">
+  <img src="https://lanyard.cnrad.dev/api/817758281807822909" alt="rpc-discord">
 
 ----
 <div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
