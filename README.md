@@ -13,7 +13,6 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 ## My Discord Contact:
    <div>
     <br>
-    <a href="https://discord.com/users/817758281807822909">
         <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/817758281807822909)](https://discord.com/users/817758281807822909)">
     </a>
     </p>
