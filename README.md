@@ -14,7 +14,7 @@ I am 17 years old. I have been programming for a year, I have already achieved a
    <div>
     <br>
     <a href="https://discord.com/users/817758281807822909">
-        <img src="https://lanyard.cnrad.dev/api/817758281807822909">
+        <img src="[https://lanyard.cnrad.dev/api/817758281807822909](https://lanyard.cnrad.dev/api/817758281807822909)">
     </a>
     </p>
 </div>
