@@ -11,6 +11,13 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 - Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
 - My Discord Contact <a href="https://discord.com/">nayyan.#0729</a> <a href="https://emoji.gg/emoji/8930-earlydev"><img src="https://emoji.gg/assets/emoji/8930-earlydev.png" width="24px" height="24px" alt="earlydev"></a>
 
+    <br>
+    <a href="https://discord.com/users/817758281807822909">
+        <img src="https://lanyard-profile-readme.vercel.app/api/670589668500176916?idleMessage=%22May%20the%20skiddin%20be%20with%20you%22&borderRadius=25px"/>
+    </a>
+    </p>
+</div>
+
 
 ----
 <div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
