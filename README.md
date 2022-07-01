@@ -9,8 +9,9 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 - Learning in public on <a href="https://nayyyan.xyz">nayyyan.xyz</a> 📹 ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/nayyyan"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
-- My Discord Contact <a href="https://discord.com/">nayyan.#0729</a> <a href="https://emoji.gg/emoji/8930-earlydev"><img src="https://emoji.gg/assets/emoji/8930-earlydev.png" width="24px" height="24px" alt="earlydev"></a>
 
+## My Discord Contact:
+   <div>
     <br>
     <a href="https://discord.com/users/817758281807822909">
         <img src="https://lanyard-profile-readme.vercel.app/api/670589668500176916?idleMessage=%22May%20the%20skiddin%20be%20with%20you%22&borderRadius=25px"/>
