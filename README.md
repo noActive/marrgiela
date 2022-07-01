@@ -1,5 +1,5 @@
 
-# Hi, I'm nayyyan 👋🏾 👩🏾‍💻
+# Hi, I'm nayyyan 👋🏾
 
 <img src="https://cdn.discordapp.com/attachments/962098120710303784/992406926417727488/header.png" alt="banner nayyan">
 I am 17 years old. I have been programming for a year, I have already achieved a lot, among other things, that I earned a little money at a young age. I educate myself during pregnancy and improve my languages: Java, Java Script, Python, Html, Css, PhP, and that's enough for me at the time. I would like to achieve much more in the future. If you need my help, write to me, we will get along for sure!
@@ -13,4 +13,4 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 
 
 ----
-<div align="center">Creted by <a href="127.0.0" target="_blank">nayyyan</a></div>
+<div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
