@@ -14,7 +14,7 @@ I am 17 years old. I have been programming for a year, I have already achieved a
    <div>
     <br>
     <a href="https://discord.com/users/817758281807822909">
-        <img src="https://lanyard-profile-readme.vercel.app/api/817758281807822909?idleMessage=%22Discord Contact22&borderRadius=25px"/>
+        <img src="[https://lanyard-profile-readme.vercel.app/api/817758281807822909?idleMessage=%22Discord Contact22&borderRadius=25px](https://lanyard.cnrad.dev/api/817758281807822909)"/>
     </a>
     </p>
 </div>
