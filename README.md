@@ -10,8 +10,8 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 - Tinkering with interactions on <a href="https://codepen.io/nayyyan"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
 
-# Myy Discord Contact:
-  <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/817758281807822909)](https://discord.com/users/817758281807822909)">
+# My Discord Contact:
+  <img src="https://cdn.discordapp.com/attachments/962098120710303784/992406926417727488/header.png" alt="banner nayyan">
 
 ----
 <div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
