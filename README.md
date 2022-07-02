@@ -11,7 +11,8 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 - Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
 
 ##
-  <center> <img src="https://lanyard.cnrad.dev/api/817758281807822909"> </center>
-
+<div>
+ <img src="https://lanyard.cnrad.dev/api/817758281807822909">
+</div>
 ----
 <div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
