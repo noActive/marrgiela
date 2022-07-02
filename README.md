@@ -10,8 +10,9 @@ I am 17 years old. I have been programming for a year, I have already achieved a
 - Tinkering with interactions on <a href="https://codepen.io/nayyyan"> Codepen</a> 🏓
 - Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
 
-## Contact 💼:
-- 
+## Contact 💼: <img align="left" width="150" height="150" src="https://octodex.github.com/images/jetpacktocat.png"></a>
+- My Discord <a href="https://discord.com/">nayyan.#0729</a>
+
 
 ----
 <div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
