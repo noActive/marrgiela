@@ -1,19 +1,21 @@
+<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
-# Hi, I'm nayyyan 👋🏾
+## Hello World ☕
 
-<img src="https://cdn.discordapp.com/attachments/962098120710303784/992406926417727488/header.png" alt="banner nayyan">
-I am 17 years old. I have been programming for a year, I have already achieved a lot, among other things, that I earned a little money at a young age. I educate myself during pregnancy and improve my languages: Java, Java Script, Python, Html, Css, PhP, and that's enough for me at the time. I would like to achieve much more in the future. If you need my help, write to me, we will get along for sure!
+I am 17 years old in programming since 2021. I am passionate about strong coffee and the culture of coolness. I am developing more and more. Do you want to create a project with me? contact me
 
+#### Follow me and my traits
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/nayyyan"><img align="left" width="150" height="150" src="https://cdn.discordapp.com/attachments/962098120710303784/992407078687756318/octocat-1656677435971.png"></a>
-- Learning in public on <a href="https://nayyyan.xyz">nayyyan.xyz</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/nayyyan"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/nayyyan/">LinkedIn</a> 💼
-
-## Contact 💼: <img align="left" width="150" height="150" src="https://octodex.github.com/images/jetpacktocat.png"></a>
-- My Discord <a href="https://discord.com/">nayyan.#0729</a>
-- E-mail <a href="https://interia.pl/">nayyyan.contact@interia.eu</a>
-
-
-----
-<div align="center">Created by <a href="127.0.0" target="_blank">nayyyan</a></div>
+<p align="left">
+  <a href="https://www.instagram.com/chiquuu/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/chiquuu"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/chiquuu" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/chiquuu"/>
+  </a>
+  
+  <a href="https://chiquuu.github.io" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=chiquuu.#0729&logoColor=FFFFFF&link=https://chiquuu.github.io"/>
+  </a>
+</p>
