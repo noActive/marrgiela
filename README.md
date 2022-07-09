@@ -1,4 +1,4 @@
-<img src="ilus-code.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="chiquuu.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
 ## Hello World ☕
 
@@ -15,7 +15,7 @@ I am 17 years old in programming since 2021. I am passionate about strong coffee
     <img src="https://img.shields.io/badge/-Linkedin-6610F2?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&link=https://www.linkedin.com/in/chiquuu"/>
   </a>
   
-  <a href="chiquuu.#0729" alt="chiquuu.#0729">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&chiquuu.#0729"/>
+  <a href="https://chiquuu.github.io/" alt="chiquuu.#0729">
+    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&clink=https://chiquuu.github.io/"/>
   </a>
 </p>
