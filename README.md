@@ -1,4 +1,4 @@
-<img src="chiquuu.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
+<img src="marrgiela.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="logo iuricode">
 
 ## Hello World ☕
 
